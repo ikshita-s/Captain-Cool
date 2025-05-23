@@ -1,0 +1,1 @@
+print ("ritesh is stupid") 
